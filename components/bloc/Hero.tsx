@@ -27,7 +27,7 @@ export default function Hero() {
           onMouseLeave={() => {
             setIsHovered(false);
           }}
-          className="text-xl sm:text-2xl lg:text-4xl xl:text-6xl p-4 md:p-16 lg:p-48 xl:p-64 text-black overflow-x-hidden"
+          className="text-xl sm:text-2xl lg:text-4xl xl:text-6xl m-4 md:m-16 lg:m-48 xl:m-64 text-black overflow-hidden"
         >
           Bienvenue sur
           <br />
@@ -47,7 +47,7 @@ export default function Hero() {
       </motion.div>
 
       <div className={styles.body}>
-        <p className="text-xl sm:text-2xl lg:text-4xl xl:text-6xl p-4 md:p-16 lg:p-48 xl:p-64 text-slate-300 overflow-x-hidden">
+        <p className="text-xl sm:text-2xl lg:text-4xl xl:text-6xl m-4 md:m-16 lg:m-48 xl:m-64 text-slate-300 overflow-hidden">
           Bienvenue sur
           <br />
           <span className="font-[family-name:var(--font-aquire)] text-sky-500 text-2xl sm:text-4xl lg:text-6xl xl:text-8xl flex flex-row justify-start">
