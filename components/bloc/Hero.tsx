@@ -32,7 +32,7 @@ export default function Hero() {
           Bienvenue sur
           <br />
           <span className="font-[family-name:var(--font-aquire)] text-2xl sm:text-4xl lg:text-6xl xl:text-8xl flex flex-row justify-start">
-            CHO'GASTRONOMIQUE
+            CHO&apos;GASTRONOMIQUE
             <Image
               src={`./cookb.svg`}
               alt="scroll"
@@ -51,7 +51,7 @@ export default function Hero() {
           Bienvenue sur
           <br />
           <span className="font-[family-name:var(--font-aquire)] text-sky-500 text-2xl sm:text-4xl lg:text-6xl xl:text-8xl flex flex-row justify-start">
-            CHO'GASTRONOMIQUE
+            CHO&apos;GASTRONOMIQUE
             <Image
               src={`./cook.svg`}
               alt="scroll"
