@@ -9,7 +9,7 @@ export default function Home() {
       <div className="bg-gradient-to-br from-orange-500 via-orange-700 to-orange-500 overflow-y-hidden">
         <Hero />
       </div>
-      <div className="bg-slate-500 text-2xl w-full h-screen">
+      <div className="w-full h-screen">
         <FirstR />
       </div>
       <ScrollSection />
