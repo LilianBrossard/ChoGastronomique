@@ -1,4 +1,5 @@
 import ScrollSection from "@/components/bloc/ScrollSection";
+import ScrollTitle from "@/components/bloc/ScrollTitle";
 import Hero from "@/components/bloc/Hero";
 import FirstR from "@/components/bloc/FirstR";
 
@@ -13,7 +14,10 @@ export default function Home() {
         <FirstR />
       </div>
       <ScrollSection />
-      <div className="bg-slate-500 text-2xl text-white w-full h-screen"></div>
+      <div className="bg-black text-2xl text-white w-full">
+        <ScrollTitle />
+      </div>
+      <div className="bg-red-500 text-2xl text-white w-full h-screen"></div>
     </main>
   );
 }

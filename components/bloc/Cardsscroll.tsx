@@ -2,7 +2,7 @@ import Image from "next/image";
 export default function Card() {
   return (
     <div className="flex items-center overflow-hidden">
-      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48 bg-gradient-to-r from-sky-700 to-sky-800">
+      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48">
         <div className=" xl:block xl:p-4 xl:hover:bg-black duration-500 ease-in-out h-full">
           <div className="flex flex-col xl:flex-row justify-start lg:justify-around h-full p-2 xl:p-8 xl:hover:bg-orange-500 transition-colors duration-500 ease-in-out">
             <div>
@@ -79,7 +79,7 @@ export default function Card() {
           </div>
         </div>
       </div>
-      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48 bg-gradient-to-r from-sky-800 to-slate-700">
+      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48">
         <div className=" xl:block xl:p-4 xl:hover:bg-black duration-500 ease-in-out h-full">
           <div className="flex flex-col xl:flex-row justify-start lg:justify-around h-full p-2 xl:p-8 xl:hover:bg-orange-500 transition-colors duration-500 ease-in-out">
             <div>
@@ -152,7 +152,7 @@ export default function Card() {
           </div>
         </div>
       </div>
-      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48 bg-gradient-to-r from-slate-700 to-sky-900">
+      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48">
         <div className=" xl:block xl:p-4 xl:hover:bg-black duration-500 ease-in-out h-full">
           <div className="flex flex-col xl:flex-row justify-start lg:justify-around h-full p-2 xl:p-8 xl:hover:bg-orange-500 transition-colors duration-500 ease-in-out">
             <div>
@@ -223,7 +223,7 @@ export default function Card() {
           </div>
         </div>
       </div>
-      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48 bg-gradient-to-r from-sky-900 to-slate-800">
+      <div className=" w-screen h-screen p-2 lg:p-12 xl:px-48">
         <div className=" xl:block xl:p-4 xl:hover:bg-black duration-500 ease-in-out h-full">
           <div className="flex flex-col xl:flex-row justify-start lg:justify-around h-full p-2 xl:p-8 xl:hover:bg-orange-500 transition-colors duration-500 ease-in-out">
             <div>
