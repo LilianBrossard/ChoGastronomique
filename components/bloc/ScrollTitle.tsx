@@ -1,6 +1,5 @@
 "use client";
 import { useRef } from "react";
-import Card from "./Cardsscroll";
 import { motion, useScroll, useTransform } from "framer-motion";
 
 // font-[family-name:var(--font-aquire)]
