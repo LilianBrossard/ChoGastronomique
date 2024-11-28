@@ -42,7 +42,7 @@ export default function Dessert() {
           </h2>
           <div className="p-4">
             <p>Fais fondre le chocolat noir au bain-marie.</p>
-            <p>Mélange le chocolat fondu avec des jaunes d'œufs et du sucre.</p>
+            <p>Mélange le chocolat fondu avec des jaunes d œufs et du sucre.</p>
             <p>
               Incorpore délicatement les blancs en neige et ajoute les
               framboises.
@@ -109,7 +109,7 @@ export default function Dessert() {
             Tiramisu classique
           </h2>
           <div className="p-4">
-            <p>Prépare un mélange de mascarpone, jaunes d'œufs et sucre.</p>
+            <p>Prépare un mélange de mascarpone, jaunes d œufs et sucre.</p>
             <p>Trempe les biscuits à la cuillère dans du café fort.</p>
             <p>
               Alterne des couches de biscuits imbibés et de crème de mascarpone,

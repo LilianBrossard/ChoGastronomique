@@ -1,6 +1,3 @@
-"use client";
-import Image from "next/image";
-
 export default function Dessert() {
   return (
     <div className="flex flex-row justify-end px-8">

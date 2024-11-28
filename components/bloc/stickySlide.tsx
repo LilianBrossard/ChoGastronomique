@@ -1,7 +1,6 @@
 "use client";
 import { useState } from "react";
 import Image from "next/image";
-import { div } from "framer-motion/client";
 
 export default function StickySlide() {
   const [isOpen1, setIsOpen1] = useState(false);
@@ -153,13 +152,13 @@ export default function StickySlide() {
                 <p>1 oignon, finement haché</p>
               </li>
               <li>
-                <p>2 cuillères à soupe d'huile d'olive</p>
+                <p>2 cuillères à soupe d&apos;huile d&apos;olive</p>
               </li>
               <li>
-                <p>Jus d'un demi-citron</p>
+                <p>Jus d&apos;un demi-citron</p>
               </li>
               <li>
-                <p>Quelques brins d'aneth frais</p>
+                <p>Quelques brins d&apos;aneth frais</p>
               </li>
             </ul>
           </div>
@@ -197,8 +196,9 @@ export default function StickySlide() {
             </li>
             <li>
               <p>
-                Dans une poêle, fais revenir l'oignon haché dans l'huile d'olive
-                jusqu'à ce qu'il soit translucide.
+                Dans une poêle, fais revenir l&apos;oignon haché dans
+                l&apos;huile d&apos;olive jusqu&apos;à ce qu&apos;il soit
+                translucide.
               </p>
             </li>
             <li>
@@ -214,8 +214,8 @@ export default function StickySlide() {
             </li>
             <li>
               <p>
-                Ajoute les dés de saumon fumé et l'aneth frais. Mélange bien
-                pour enrober les pâtes de la sauce.
+                Ajoute les dés de saumon fumé et l&apos;aneth frais. Mélange
+                bien pour enrober les pâtes de la sauce.
               </p>
             </li>
           </ul>
@@ -246,10 +246,10 @@ export default function StickySlide() {
                 <p>4 cuisses de poulet</p>
               </li>
               <li>
-                <p>200 g d'abricots secs</p>
+                <p>200 g d&apos;abricots secs</p>
               </li>
               <li>
-                <p>100 g d'amandes effilées</p>
+                <p>100 g d&apos;amandes effilées</p>
               </li>
               <li>
                 <p>2 oignons, finement hachés</p>
@@ -258,7 +258,7 @@ export default function StickySlide() {
                 <p>2 cuillères à soupe de miel</p>
               </li>
               <li>
-                <p>2 cuillères à soupe d'huile d'olive</p>
+                <p>2 cuillères à soupe d&apos;huile d&apos;olive</p>
               </li>
               <li>
                 <p>1 cuillère à café de cannelle</p>
@@ -302,14 +302,15 @@ export default function StickySlide() {
           <ul className="pl-4">
             <li>
               <p>
-                Chauffe l'huile d'olive dans un tajine ou une grande poêle. Fais
-                revenir les cuisses de poulet jusqu'à ce qu'elles soient dorées.
+                Chauffe l&apos;huile d&apos;olive dans un tajine ou une grande
+                poêle. Fais revenir les cuisses de poulet jusqu&apos;à ce
+                qu&apos;elles soient dorées.
               </p>
             </li>
             <li>
               <p>
-                Ajoute les oignons hachés et fais-les revenir jusqu'à ce qu'ils
-                soient translucides.
+                Ajoute les oignons hachés et fais-les revenir jusqu&apos;à ce
+                qu&apos;ils soient translucides.
               </p>
             </li>
             <li>
@@ -320,14 +321,14 @@ export default function StickySlide() {
             </li>
             <li>
               <p>
-                Ajoute les abricots secs et un peu d'eau. Couvre et laisse
+                Ajoute les abricots secs et un peu d&apos;eau. Couvre et laisse
                 mijoter à feu doux pendant 45 minutes.
               </p>
             </li>
             <li>
               <p>
-                Fais griller les amandes effilées dans une poêle sèche jusqu'à
-                ce qu'elles soient dorées.
+                Fais griller les amandes effilées dans une poêle sèche
+                jusqu&apos;à ce qu&apos;elles soient dorées.
               </p>
             </li>
             <li>
