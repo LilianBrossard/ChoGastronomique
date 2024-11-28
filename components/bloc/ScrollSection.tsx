@@ -11,7 +11,7 @@ export default function ScrollSection() {
   });
   const x = useTransform(scrollYProgress, [0, 1], ["0%", "-75%"]);
   return (
-    <section ref={targetRef} className="relative h-[300vh]">
+    <section ref={targetRef} className="relative h-[500vh] bg-orange-700">
       <div className="sticky top-0 flex h-screen items-center overflow-hidden py-6">
         <motion.div style={{ x }}>
           <Card />

@@ -9,7 +9,7 @@ const aquire = localFont({
   src: "./fonts/aquire.woff",
   variable: "--font-aquire",
 });
-// font-[family-name:var(--font-stike)]
+// font-[family-name:var(--font-strike)]
 const protest_strike = Protest_Strike({
   weight: "400",
   subsets: ["latin"],

@@ -10,7 +10,7 @@ export default function ScrollTitle() {
   });
   const x = useTransform(scrollYProgress, [0, 1], ["10%", "-100%"]);
   return (
-    <section ref={targetRef} className="relative h-[350vh]">
+    <section ref={targetRef} className="relative h-[500vh]">
       <div className="sticky top-0 flex h-screen items-center overflow-hidden py-6">
         <motion.div style={{ x }}>
           <h1 className="font-[family-name:var(--font-aquire)] text-[300px] uppercase text-nowrap ">
